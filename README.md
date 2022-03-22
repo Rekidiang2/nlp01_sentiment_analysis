@@ -109,7 +109,10 @@ Extract sand-up comedy transcript, calculate polarity and sensitivity the text t
 ## 6. About Me
 ___
 
-### I'm a data scientist, software Engineer. data and technology passionate person, Artificial Intelligence enthusiast 
+### Kiese Diangebeni Reagan
+#### Data Science Analyst
+
+> I’m  Data and technology passionate person, Artificial Intelligence enthusiast, lifelong learner. Since my childhood I was interested to technology and science, but I didn’t get access to it, by the lack of resource and opportunities hopefully grace to massive learning resource available on the Internet I’m getting close to my dream. My pleasure is to motivate, guide and teach people with less or without resource accomplish their dream in the world of technology specially kids and young.
 
 > My Website [Click Here](https://kiese.tech)
 
