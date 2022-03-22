@@ -1,4 +1,4 @@
-# Ssentiment Analysis
+# Sentiment Analysis
 Extract sand-up comedy transcript, calculate polarity and sensitivity the text to determine its sentiment (positive or negative or neutral)
 
 <img src="./images/cover.png" width="1000" alt="photo cover" />
