@@ -109,13 +109,14 @@ Extract sand-up comedy transcript, calculate polarity and sensitivity the text t
 ## 6. About Me
 ___
 
-### Kiese Diangebeni Reagan
-#### Data Science Analyst
+### Kiese Diangebeni Reagan || Data Scientist & Web Developer
 
 >I’m a data and technology passionate person, an artificial intelligence enthusiast and a lifelong learner. Since my childhood I have been interested in technology and science, but due to lack of resources and opportunities, I didn’t develop this interest. However, thanks to the massive learning resources available on the internet, I’m getting closer to my dream. My desire is to motivate, guide and teach people with less or without resources accomplish their dreams in the world of technology especially kids and young people.
-> My Website [Click Here](https://kiese.tech)
 
-> Social Network
+### My Website [Click Here](https://kiese.tech)
+---
+
+### Social Network
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
