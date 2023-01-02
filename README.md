@@ -113,7 +113,7 @@ ___
 
 >I’m a data and technology passionate person, an artificial intelligence enthusiast and a lifelong learner. Since my childhood I have been interested in technology and science, but due to lack of resources and opportunities, I didn’t develop this interest. However, thanks to the massive learning resources available on the internet, I’m getting closer to my dream. My desire is to motivate, guide and teach people with less or without resources accomplish their dreams in the world of technology especially kids and young people.
 
-### My Website [Click Here](https://kiese.tech)
+### My Website [kiese.tech](https://kiese.tech)
 ---
 
 ### Social Network
