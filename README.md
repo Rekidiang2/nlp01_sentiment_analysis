@@ -47,7 +47,7 @@ Extract sand-up comedy transcript, calculate polarity and sensitivity the text t
 
 ## 3. How to run
 
-**N.B : python 3.7 is recommended**
+**N.B : python 3.10 is recommended**
 
 ### 3.1. CLONE PROJECT DIRECTORY
 
@@ -69,7 +69,7 @@ Extract sand-up comedy transcript, calculate polarity and sensitivity the text t
 
 ##### (MasOS || LINUX)
 + $ python3 -m venv nlp01_venv 
-+ $ source p01ml_venv/bin/activate (<= Activate virtual Environment)  
++ $ source nlp01_venv/bin/activate (<= Activate virtual Environment)  
 + $ deactivate (<= Deactivate virtual Environment)
 + $ pip install -r requirements.txt
 + Set  VIRTUAL ENVIRONMENT as KERNEL : 
@@ -81,7 +81,7 @@ Extract sand-up comedy transcript, calculate polarity and sensitivity the text t
 
 + Verify if you have conda installed ($conda --version) if not go to [anconda](https://www.anaconda.com/products/individual) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) to download and install it
 
-+ $ conda create -n nlp01_venv python=3.7
++ $ conda create -n nlp01_venv python=3.10
 + $ conda activate nlp01_venv (<= Activate virtual Environment)
 + $ conda deactivate  (<= Deactivate virtual Environment)
 + Set  VIRTUAL ENVIRONMENT as KERNEL : 
@@ -89,7 +89,7 @@ Extract sand-up comedy transcript, calculate polarity and sensitivity the text t
 + $ jupyter notebook
 + Go to Kernel -> Change kernel -> nlp01_kernel
 + $ jupyter kernelspec list (<= list all ipykernel in your system)
-+ $ jupyter kernelspec uninstall nlp01_venv (<= Delete the ipykernel in your system)
++ $ jupyter kernelspec uninstall nlp01_kernel (<= Delete the ipykernel in your system)
 
 
 #### Manage kernel
@@ -112,8 +112,7 @@ ___
 ### Kiese Diangebeni Reagan
 #### Data Science Analyst
 
-> I’m  Data and technology passionate person, Artificial Intelligence enthusiast, lifelong learner. Since my childhood I was interested to technology and science, but I didn’t get access to it, by the lack of resource and opportunities hopefully grace to massive learning resource available on the Internet I’m getting close to my dream. My pleasure is to motivate, guide and teach people with less or without resource accomplish their dream in the world of technology specially kids and young.
-
+>I’m a data and technology passionate person, an artificial intelligence enthusiast and a lifelong learner. Since my childhood I have been interested in technology and science, but due to lack of resources and opportunities, I didn’t develop this interest. However, thanks to the massive learning resources available on the internet, I’m getting closer to my dream. My desire is to motivate, guide and teach people with less or without resources accomplish their dreams in the world of technology especially kids and young people.
 > My Website [Click Here](https://kiese.tech)
 
 > Social Network
